@@ -3,7 +3,7 @@ The best website ever built
 
 By:
 
-anaîs
+Anaïs
 Cedryc
 Charli
 Sébastien
