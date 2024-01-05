@@ -42,3 +42,22 @@ button:hover,
 a:hover {
   cursor: pointer;
 }
+
+/*****************************************************/
+/* NAV BAR */
+/* NAV BAR */
+/* NAV BAR */
+/*****************************************************/
+
+.top-menu {
+  display: flex;
+  justify-content: space-around;
+  margin: 1rem 2rem;
+  width: 20vw;
+  color: var(--dark-wine);
+  font-weight: bold;
+}
+
+.top-menu > li:hover {
+  color: var(--light-blue);
+}
