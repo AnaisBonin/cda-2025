@@ -5,6 +5,6 @@ By:
 
 Anaïs
 Baptiste
-Cedryc
-Charli
+Cedric
+Charly
 Sébastien
