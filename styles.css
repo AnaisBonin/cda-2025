@@ -61,3 +61,27 @@ a:hover {
 .top-menu > li:hover {
   color: var(--light-blue);
 }
+
+/*****************************************************/
+/* FORM */
+/* FORM */
+/* FORM */
+/*****************************************************/
+
+input{
+  border: 1px solid teal;
+  margin-bottom: 10px;
+}
+
+#submit_button{
+  border: 0;
+  background-color: greenyellow;
+  padding: 5px;
+  border-radius: 5px;
+  margin-left: 100px;
+}
+
+#submit_button:hover{
+  background-color: rgb(23, 143, 255);
+  color: white;
+}
